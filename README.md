@@ -56,11 +56,18 @@ Plataforma de e-commerce completa construída com Next.js 15 e TypeScript: carte
 
 ---
 
-## 📊 Linguagens mais usadas
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=tokyonight" />
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasribeiroxzz&theme=radical" />
+
+</div>
+
+<div align="center">
+
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=radical" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=radical" />
 
 </div>
 
