@@ -24,7 +24,6 @@ objetivo: Construir soluções criativas e de alto impacto
 - 💻 Experiência em **Python**, **JavaScript** e **Java**
 - 🚀 Foco em aplicações web completas, do front ao back
 - 🌱 Aprofundando em **React**, **TypeScript** e **Docker**
-- 📍 Brasil · disponível para oportunidades remotas
 
 ---
 
