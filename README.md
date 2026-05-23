@@ -60,7 +60,7 @@ Plataforma de e-commerce completa construída com Next.js 15 e TypeScript: carte
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=ejs)
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=tokyonight" />
 
 </div>
 
