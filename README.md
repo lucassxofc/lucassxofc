@@ -1,87 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=header" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Ribeiro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+ADS)](https://git.io/typing-svg)
+# Lucas Ribeiro
 
-<br>
+**Desenvolvedor Full Stack** · Estudante de Análise e Desenvolvimento de Sistemas
 
-[![](https://komarev.com/ghpvc/?username=lucasribeiroxzz&label=Visitantes&color=A960FF&style=flat-square)](https://github.com/lucasribeiroxzz)
-
-</div>
-
-## 🧑‍💻 Sobre mim
-
-```yaml
-nome: Lucas Ribeiro
-localização: Brasil 🇧🇷
-formação: Análise e Desenvolvimento de Sistemas (ADS)
-foco: Desenvolvimento Full Stack
-objetivo: Construir soluções criativas e de alto impacto
-```
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 💻 Desenvolvedor com experiência em **Python**, **JavaScript** e **Java**
-- 🚀 Apaixonado por tecnologia, automação e desenvolvimento de software
-- 🌱 Sempre evoluindo e buscando novos desafios
-- 🎮 Entusiasta de game development e scripting
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,java,lua,html,css&theme=dark" />
-
-**Ferramentas & Tecnologias**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,nodejs,npm&theme=dark" />
-
-**Estudando**
-
-<img src="https://skillicons.dev/icons?i=react,typescript,docker,linux&theme=dark" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiroxzz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasribeiroxzz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ribeiroxzz)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Sobre
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasribeiroxzz&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=tokyonight" />
-</div>
+Desenvolvedor Full Stack focado em construir aplicações web completas, do front-end ao back-end. Atualmente cursando Análise e Desenvolvimento de Sistemas e aprofundando conhecimentos em React, TypeScript e arquitetura de software.
 
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasribeiroxzz&theme=tokyonight&utcOffset=-3" />
-</div>
+Buscando minha primeira oportunidade na área para aplicar e expandir o que venho construindo.
 
-<div align="center">
-  <img width="660" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasribeiroxzz&theme=tokyonight" />
+---
+
+## Tecnologias
+
+**Back-end** &nbsp; Python · Java · Node.js
+**Front-end** &nbsp; JavaScript · HTML · CSS · React *(em estudo)*
+**Banco de dados** &nbsp; MySQL
+**Ferramentas** &nbsp; Git · GitHub · VS Code · Linux
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,javascript,react,typescript,mysql,git,linux&theme=dark" />
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+## Projetos em destaque
 
-<div align="center">
+### [Nome do Projeto 1](https://github.com/lucasribeiroxzz/repo)
+Descrição em uma ou duas linhas: o que faz e qual problema resolve.
+`Python` `JavaScript` `MySQL`
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiroxzz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ribeiroxzz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasribeiroxzz)
+### [Nome do Projeto 2](https://github.com/lucasribeiroxzz/repo)
+Descrição objetiva do que foi construído e da stack usada.
+`Node.js` `React` `API REST`
 
-</div>
+> *Substitua pelos seus melhores repositórios. Se possível, adicione um link de deploy/demo.*
 
 ---
 
+## GitHub
+
 <div align="center">
 
-### 💡 *"O código é poesia escrita em lógica."*
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=footer" />
