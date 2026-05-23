@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=header" />
 
 <div align="center">
@@ -34,13 +33,13 @@ objetivo: Construir soluções criativas e de alto impacto
 <div align="center">
 
 **Back-end**
-<img src="https://skillicons.dev/icons?i=python,java,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,express&theme=dark" />
 
 **Front-end**
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,html,css&theme=dark" />
 
 **Banco & Ferramentas**
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,vscode,linux&theme=dark" />
 
 </div>
 
@@ -48,13 +47,13 @@ objetivo: Construir soluções criativas e de alto impacto
 
 ## 💼 Projetos em destaque
 
-### [Nome do Projeto 1](https://github.com/lucasribeiroxzz/repo)
-O que faz e qual problema resolve, em uma ou duas linhas.
-`Python` · `JavaScript` · `MySQL`
+### [Olimpo Pay](https://github.com/lucasribeiroxzz/gateway-src) · Gateway de Pagamentos
+Plataforma de carteira digital e pagamentos via PIX, com API REST autenticada por API Key, painel administrativo, sistema de saques com aprovação e camadas de segurança (rate limiting, CSRF, XSS, Helmet).
+`Node.js` · `Express` · `EJS` · `API REST`
 
-### [Nome do Projeto 2](https://github.com/lucasribeiroxzz/repo)
-Descrição objetiva da aplicação e da stack usada.
-`Node.js` · `React` · `API REST`
+### [LHUB](https://github.com/lucasribeiroxzz/lhub-site-src) · E-commerce Full Stack
+Plataforma de e-commerce completa construída com Next.js 15 e TypeScript: carteira com depósito via PIX, sistema de cupons e afiliados, login com Discord OAuth2, painel admin e API pública versionada.
+`Next.js 15` · `TypeScript` · `Tailwind` · `Prisma`
 
 ---
 
@@ -62,8 +61,7 @@ Descrição objetiva da aplicação e da stack usada.
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=tokyonight" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=ejs)
 
 </div>
 
